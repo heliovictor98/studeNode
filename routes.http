@@ -18,10 +18,10 @@ Content-Type: application/json
 
 {
     "title": "Video 055",
-    "descripiton": "Esse é o primeiro video",
+    "descripiton": "Esse é o primeiro videoo",
     "duraction": 180
 }
 
 ###
 
-DELETE http://localhost:3333/videos/024ef220-530b-4aa3-afb1-d5d2450c5eb6
+DELETE http://localhost:3333/videos/3f4a2d18-8e7a-4953-bc27-e0fcb3a6fa72
